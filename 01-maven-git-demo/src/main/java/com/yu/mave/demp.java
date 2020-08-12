@@ -10,7 +10,7 @@ public class demp {
 
         System.out.println("GIT IDEA整合");
         System.out.println("GIT IDEA整合");
-
+System.out.println("GIT pull");
     }
 
 }
